@@ -1,0 +1,17 @@
+body {
+    font: "Arial", sans-serif;
+}
+
+a {
+    color: green;
+}
+
+.recipe-name {
+    font-weight: bold;
+    color: red;
+}
+
+.recipe-img {
+    width: 300px;
+    height: auto;
+}
